@@ -1,0 +1,22 @@
+{
+  "name": "node-red-contrib-webpack",
+  "version": "1.0.0",
+  "description": "Node-RED nodes to implement webpack",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pony-dog/node-red-contrib-webpack.git"
+  },
+  "keywords": [
+    "node-red",
+    "webpack"
+  ],
+  "author": "Maruthi Krishnappa",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pony-dog/node-red-contrib-webpack/issues"
+  },
+  "homepage": "https://github.com/pony-dog/node-red-contrib-webpack#readme"
+}
